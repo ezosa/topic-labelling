@@ -1,0 +1,30 @@
+formula, formula 1, formula-auto, aika-ajot, f1, moottoriurheilu, formulat
+liiga, jääkiekko, pelaaja, sm-liiga, urheilu
+jääkiekko, nhl, urheilu
+kansainvälinen politiikka, ulkomaat, politiikka, kansainväliset suhteet, suurvallat, poliittiset päätökset, tapaaminen
+mm-ralli, ralliautoilu, ralli, ralli-kuljettaja, moottoriurheilu
+mestarien liiga, jalkapallo, urheilu
+oikeudenkäynti, käräjäoikeudet, oikeuslaitos, rikokset, oikeus, tuomioistuimet, rikos, rangaistukset
+loukkaantuneiden määrä, onnettomuudet, yhteentörmäys, moottoritie onnettomuus, hälytys, liikenneonnettomuus, liikenneonnettomuudet, tieliikenneonnettomuudet, uhrit
+kauppasodat, kauppasopimukset, tullimaksut, maailmanpolitiikka, suurvaltapolitiikka, tullit, ulkomaattullit, valuutat, ulkomaat, suurvallat
+päätökset, ulkomaat, politiikka, yhdysvaltojen politiikka, usa:n presidenttivaalit, yhdysvallat
+päätökset, euroopan unioni, britannian politiikka, iso-britannian eroaminen eu:sta, eu-politiikka, brexit, eu
+ilmatieteenlaitos, lämpotila, sääennusteet, ilmatieteen laitos, talvi, säätiedote, sää
+puheenjohtaja, puolueiden kannatus, puolueet, politiikka, vaalit, kannatusmittaus, puolue, suomen politiikka, puolueiden väliset  erot
+kansainvälinen politiikka, ulkomaat, salamurha, politiikka, myrkytykset, venäjä, myrkytys
+hiihtokilpailut, hiihto, talviurheilu, urheilu
+suomen politiikka, sote uudistus, sote-uudistus, ministeri, politiikka, kotimaan politiikka
+taliban, sota, uhrit, afganistanin sota, murha, afganistan
+alppihiihto, maiden väliset kilpailut, eurooppa, hiihtokilpailut, talviurheilu, valtio, maa
+keskusta, suomen politiikka, keskustan puheenjohtaja, siniset, politiikka, perussuomalaiset, leikkaus, puolueet
+osakemarkkinat, pankki, talous, tuotto, raha, pankkilaitos, sijoittaminen, osakkeenomistajien voitot
+politiikka, vaalit, kunnallisvaalit, nuorten äänestysprosentti
+vakava rikos, uhri, oikeudenkäynti, rikokset, tuomio, rikostutkinta, rikos, poliisi
+työllisyys, työmarkkinapolitiikka, lakiesityksen valmistelu, politiikka, ammattiliitot, suomen politiikka, lakiuudistus
+työmarkkinapolitiikka, työtaistelut, huonot palkatasot, työtaistelu, ammattiliitot, terveydenhuolto, ammattiliitto
+presidenttien välinen tapaaminen, politiikka, poliittiset johtajat, kansainväliset suhteet, presidentit, tapaaminen
+joukkoliikenne, liikennehäiriöt, julkinen liikenne, pääkaupunkiseudun liikenne, kaupunkisuunnittelu, sääolosuhteiden aiheuttama liikennehäiriö
+jihadismi, terrori-iskut, pommi-isku, sota, ääriliike, äärijärjestöjen teot, terrorismi, pakolaiset
+iskujen aiheuttama tulipalo, tulipalot, onnettomuudet, salamurha, drone iskut, toimittaja, pelastuslaitos, asukkaiden evakuointi
+pelastustoiminta, aborttien eettisyys, eurooppa, afrikka, koronakriisin vaikutus ravintola-alaan, siirtolaisveneet, pakolaisuus, välimeri
+rikokset, tuomioistuimet, erohakemus, asianajajat, oikeudenkäynnit, oikeudenkäynti, oikeuslaitos, oikeus, laiton päätös, rangaistukset
